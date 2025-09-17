@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shankar ✨✨<br><br><br>Computer Science Student at TAMUCC<br>🔭 I’m currently working on cost of living dashboard app in Andrioid Studio<br>🌱 I’m currently learning python<br>📫 How to reach me: sankarpunati@gmail.com<br>😄 Pronouns: he/him <br>⚡ Fun fact: I never give up and i don't like people telling me i can't do it
+Hi, I'm Shankar ✨✨<br><br><br>Computer Science Student at TAMUCC<br>🔭 I’m currently working on my datastructures in java and AI and ML build via Python<br>🌱 I’m currently learning python<br>📫 How to reach me: sankarpunati@gmail.com<br>😄 Pronouns: he/him <br>⚡ Fun fact: I never give up and i don't like people telling me i can't do it
 
 
 ## 🌐 Socials:
