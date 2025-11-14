@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Shankar1371/.github/assets/banner-placeholder.png" alt="Shankar Punati - AI Engineer & Systems Developer" style="border-radius: 12px;" />
-</p>
+
 
 <h1 align="center">Shankar Punati</h1>
 
@@ -15,7 +13,7 @@
     <img src="https://img.shields.io/github/followers/Shankar1371?label=Followers&style=for-the-badge&color=0A84FF" />
   </a>
   <a href="mailto:spunati@islander.tamucc.edu">
-    <img src="https://img.shields.io/badge/Email-spunati@islander.tamucc.edu-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sankarpunati@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
