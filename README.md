@@ -1,17 +1,148 @@
-# 💫 About Me:
-Hi, I'm Shankar ✨✨<br><br><br>Computer Science Student at TAMUCC<br>🔭 I’m currently working on my datastructures in java and AI and ML build via Python<br>🌱 I’m currently learning python<br>📫 How to reach me: sankarpunati@gmail.com<br>😄 Pronouns: he/him <br>⚡ Fun fact: I never give up and i don't like people telling me i can't do it
+<p align="center">
+  <img src="https://github.com/Shankar1371/.github/assets/banner-placeholder.png" alt="Shankar Punati - AI Engineer & Systems Developer" style="border-radius: 12px;" />
+</p>
 
+<h1 align="center">Shankar Punati</h1>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankarpunati@gmail.com) 
+<p align="center">
+  AI Engineering • Distributed Systems • ML Infrastructure • Android • Full-Stack Engineering  
+  <br>
+  Master's in Computer Science, Texas A&M University–Corpus Christi
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=shankar1371&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar1371&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/Shankar1371">
+    <img src="https://img.shields.io/github/followers/Shankar1371?label=Followers&style=for-the-badge&color=0A84FF" />
+  </a>
+  <a href="mailto:spunati@islander.tamucc.edu">
+    <img src="https://img.shields.io/badge/Email-spunati@islander.tamucc.edu-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shankar1371&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a computer science graduate student focused on building production-ready AI systems, distributed computing pipelines, and intelligent automation tools. My work combines machine learning, real-time systems, scalable cloud architectures, and full-stack development. I enjoy solving complex engineering problems, designing end-to-end ML pipelines, and integrating advanced models into real applications.
+
+Beyond AI and systems engineering, I build Android applications, architect interactive web tools, and experiment with reinforcement learning, networking simulations, and software infrastructure.
+
+---
+
+## Technical Expertise
+
+### Programming
+Python • Java • JavaScript • TypeScript • Kotlin • C  
+Bash • SQL • HTML/CSS
+
+### Frameworks & Libraries
+React.js • Node.js • Express.js • Android (Kotlin, MVVM)  
+PyTorch • TensorFlow • Scikit-learn
+
+### Systems & DevOps
+Docker • Kubernetes • AWS • Linux • MongoDB • PostgreSQL • Redis  
+MPI • OpenMP • Git • CI/CD
+
+### Areas of Focus
+Machine Learning Engineering • Distributed Systems  
+Cloud Reliability & Automation • OS Internals  
+Reinforcement Learning • Data Pipelines  
+Mobile Application Development
+
+---
+
+## Featured Projects
+
+### AI Self-Healing Cloud Orchestrator
+A full-scale AI-driven cloud resilience platform that predicts cluster failures and automatically performs corrective actions.  
+Built using time-series forecasting models (GRU/Transformer), containerized microservices, and Kubernetes orchestration.  
+Includes log ingestion, monitoring pipelines, deployment workflows, and intelligent recovery agents.
+
+Repository (placeholder):  
+https://github.com/Shankar1371/ai-self-healing-cloud-orchestrator
+
+---
+
+### ML Pipeline Orchestration Tool
+A visual pipeline builder for machine learning workflows.  
+Features a drag-and-drop interface using React Flow, real-time log streaming, Python-based task execution, and automatic model training/evaluation with ZIP image datasets.  
+Supports RandomForest, Logistic Regression, live monitoring, model export, and one-click prediction endpoints.
+
+Repository (placeholder):  
+https://github.com/Shankar1371/ml-pipeline-orchestrator
+
+---
+
+### Personal Cost-of-Living Dashboard (Android)
+A native Android application built using Kotlin, MVVM, Room Database, and real-time analytics.  
+Includes expense tracking, live charts, inflation estimations, budget planning, and customizable financial preferences.  
+Designed with a clean, minimalistic UI focused on clarity and user experience.
+
+Repository (placeholder):  
+https://github.com/Shankar1371/personal-cost-dashboard
+
+---
+
+### LiveMentor / Watchdog AI
+A desktop overlay assistant built with Electron + Python that analyzes on-screen activity using OCR and provides real-time AI feedback based on user goals, study plans, and work sessions.  
+Includes screen parsing engine, goal-based AI advisor, productivity tracking, and system-level event triggers.
+
+Repository (placeholder):  
+https://github.com/Shankar1371/watchdog-ai
+
+---
+
+### Geo-Meme Intelligence Map
+An interactive map-based application combining real geospatial data (crime, rent, weather, schools) with AI-generated contextual insights.  
+Designed using geospatial databases (PostGIS), caching layers (Redis), and modern web stacks.  
+Extensible architecture for future AR and location-based AI experiences.
+
+Repository (placeholder):  
+https://github.com/Shankar1371/meme-map
+
+---
+
+### Kawasaki Motorcycle Customizer
+A web/mobile UI allowing users to customize Kawasaki motorcycles with real and aftermarket parts.  
+Implements a layered PNG rendering pipeline, modular part slots, and a preview environment with upgrade visualization.
+
+Repository (placeholder):  
+https://github.com/Shankar1371/kawasaki-customizer
+
+---
+
+## Academic and Systems Engineering Work
+
+- Advanced Operating Systems: scheduling algorithms, concurrency, memory models, kernel-level threading, fault recovery.
+- Distributed Systems: distributed mutual exclusion, distributed scheduling, clock synchronization, fault tolerance.
+- Parallel Programming: MPI-based parallel TSP solver, multicore optimizations, OpenMP pipelines.
+- Networking: NS-3 simulations comparing wired vs wireless communication; Packet Tracer & OPNET modeling.
+- Reinforcement Learning: DQN agents for CartPole and Atari Breakout using Keras and OpenAI Gym.
+- ML Implementation: end-to-end model training workflows, preprocessing pipelines, image classification systems.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shankar1371&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar1371&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar1371&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+For collaborations, opportunities, or project discussions:  
+**Email:** spunati@islander.tamucc.edu  
+**GitHub:** https://github.com/Shankar1371
+
+---
+
+<p align="center">
+  Precision, clarity, and engineering discipline define my work.
+</p>
