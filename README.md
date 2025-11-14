@@ -136,7 +136,7 @@ https://github.com/Shankar1371/kawasaki-customizer
 ## Contact
 
 For collaborations, opportunities, or project discussions:  
-**Email:** spunati@islander.tamucc.edu  
+**Email:** sankarpunati@gmail.com 
 **GitHub:** https://github.com/Shankar1371
 
 ---
