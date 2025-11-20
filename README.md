@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Shankar1371/Shankar1371/blob/main/assets/futuristic_banner_placeholder.png?raw=true" alt="Shankar Punati - AI and Distributed Systems Engineer - Futuristic Banner" width="100%"/>
+  <img src="https://github.com/Shankar1371/Shankar1371/blob/main/assets/futuristic_banner.png?raw=true" alt="Shankar Punati - AI and Distributed Systems Engineer - Futuristic Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,9 +21,8 @@
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTMyazZ2czJjZHdvMTh2N2p6c2Y4M3hyeGw0ZDBzZXRvcXF6bTczNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K621Yc6f0kI/giphy.gif" alt="Circuit Board Animation" width="100px"/>
+  <h2 style="color:#00FFFF;">[ ///// System Initialization ///// ]</h2>
 </div>
 
 ## 🌐 System Log: About Me
@@ -50,7 +49,7 @@ A detailed scan of the protocols and frameworks integrated into my core capabili
 ### Frameworks & Libraries (AI/Web/Mobile)
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=2E8B57" />
-  <img src="https://img.udi.es/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=2E8B57" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=2E8B57" />
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=2E8B57" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=2E8B57" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2E8B57" />
@@ -72,7 +71,7 @@ A detailed scan of the protocols and frameworks integrated into my core capabili
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eGdzZ203azNvZmVwOGQ4a2ZxdnIzd244ZGdtYmJ1aTlhY2pvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgyt9VwE0y7jK/giphy.gif" alt="Data Flow Animation" width="100px"/>
+  <h2 style="color:#00FFFF;">[ ///// Data Stream Analysis ///// ]</h2>
 </div>
 
 ## 💡 Core Directives: Focus Areas
@@ -98,7 +97,7 @@ Analyzing real-time contribution and module utilization.
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF4cGQ2bDJqZ2c1bGNrcWpuaDcyM205dXR6d2d3OHI4NzRwdnZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btUgLhWv0O7y0FO/giphy.gif" alt="Connecting Lines Animation" width="100px"/>
+  <h2 style="color:#00FFFF;">[ ///// Network Interlink Active ///// ]</h2>
 </div>
 
 ## 🤝 Establish Contact: Network Interlink
@@ -109,7 +108,7 @@ Initiate a secure connection for collaborative endeavors.
 | :---: | :--- | :--- |
 | 📧 | Email | [sankarpunati@gmail.com](mailto:sankarpunati@gmail.com) |
 | 🌐 | LinkedIn | [Access LinkedIn Profile](https://www.linkedin.com/in/shankar-punati-2268b8193/) |
-| 🔗 | Portfolio/Website | *Insert Your Digital Hub URL Here* |
+| 🔗 | Portfolio/Website | **<mark>_ACTION: Insert Your Digital Hub URL Here_</mark>** |
 
 ***
 
