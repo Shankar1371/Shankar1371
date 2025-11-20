@@ -25,13 +25,13 @@
   <h2 style="color:#00FFFF;">[ ///// System Initialization ///// ]</h2>
 </div>
 
-## 🌐 System Log: About Me
+##  System Log: About Me
 
 Operating at the intersection of advanced computation and real-world application, I am a computer science graduate student driven to construct **production-grade AI systems**, architect **scalable distributed computing pipelines**, and engineer **intelligent automation solutions**. My work integrates cutting-edge machine learning, real-time data processing, resilient cloud architectures, and robust full-stack development. I am committed to deciphering complex engineering challenges, devising end-to-end ML pipelines, and seamlessly integrating sophisticated models into operational applications.
 
 <br>
 
-## 🛠️ Module Manifest: Technical Expertise
+##  Module Manifest: Technical Expertise
 
 A detailed scan of the protocols and frameworks integrated into my core capabilities:
 
@@ -74,7 +74,7 @@ A detailed scan of the protocols and frameworks integrated into my core capabili
   <h2 style="color:#00FFFF;">[ ///// Data Stream Analysis ///// ]</h2>
 </div>
 
-## 💡 Core Directives: Focus Areas
+##  Core Directives: Focus Areas
 
 * **Machine Learning Engineering** & MLOps Architecture
 * **Distributed Systems Design** (Concurrency, Fault Tolerance, Scalability)
@@ -84,7 +84,7 @@ A detailed scan of the protocols and frameworks integrated into my core capabili
 
 <br>
 
-## ⚙️ Operational Metrics: GitHub Activity
+##  Operational Metrics: GitHub Activity
 
 Analyzing real-time contribution and module utilization.
 
@@ -100,14 +100,14 @@ Analyzing real-time contribution and module utilization.
   <h2 style="color:#00FFFF;">[ ///// Network Interlink Active ///// ]</h2>
 </div>
 
-## 🤝 Establish Contact: Network Interlink
+##  Establish Contact: Network Interlink
 
 Initiate a secure connection for collaborative endeavors.
 
 | Protocol | Identification | Access Point |
 | :---: | :--- | :--- |
 | 📧 | Email | [sankarpunati@gmail.com](mailto:sankarpunati@gmail.com) |
-| 🌐 | LinkedIn | [Access LinkedIn Profile](https://www.linkedin.com/in/shankar-punati-2268b8193/) |
+| 🌐 | LinkedIn | [Access LinkedIn Profile]([https://www.linkedin.com/in/shankar-punati-2268b8193/](https://www.linkedin.com/in/sankar-punati-834a6a321/)) |
 | 🔗 | Portfolio/Website | **<mark>_ACTION: Insert Your Digital Hub URL Here_</mark>** |
 
 ***
