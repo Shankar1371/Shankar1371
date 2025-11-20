@@ -106,9 +106,9 @@ Initiate a secure connection for collaborative endeavors.
 
 | Protocol | Identification | Access Point |
 | :---: | :--- | :--- |
-| 📧 | Email | [sankarpunati@gmail.com](mailto:sankarpunati@gmail.com) |
-| 🌐 | LinkedIn | [Access LinkedIn Profile]([https://www.linkedin.com/in/shankar-punati-2268b8193/](https://www.linkedin.com/in/sankar-punati-834a6a321/)) |
-| 🔗 | Portfolio/Website | **<mark>_ACTION: Insert Your Digital Hub URL Here_</mark>** |
+|  | Email | [sankarpunati@gmail.com](mailto:sankarpunati@gmail.com) |
+|  | LinkedIn | ([shankar-punati](https://www.linkedin.com/in/sankar-punati-834a6a321/)) |
+|  | Portfolio/Website | **<mark>_ACTION: Insert Your Digital Hub URL Here_</mark>** |
 
 ***
 
