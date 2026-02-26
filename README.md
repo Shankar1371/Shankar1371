@@ -1,9 +1,17 @@
 # Sri Jaya Sankar Punati
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shankar1371&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shankar1371&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar1371&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shankar1371&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shankar1371/Shankar1371/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 AI Systems Engineering | Distributed Infrastructure | Enterprise AI Architectures
 
