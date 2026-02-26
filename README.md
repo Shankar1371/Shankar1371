@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shankar1371/Shankar1371/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Shankar1371/Shankar1371/main/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 AI Systems Engineering | Distributed Infrastructure | Enterprise AI Architectures
