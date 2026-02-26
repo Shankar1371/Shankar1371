@@ -1,100 +1,139 @@
-<div align="center">
-  <img src="https://github.com/Shankar1371/Shankar1371/blob/main/assets/futuristic_banner.png?raw=true" width="100%" />
-</div>
+# Sri Jaya Sankar Punati
 
-<div align="center">
-  <a href="https://github.com/Shankar1371">
-    <img src="https://komarev.com/ghpvc/?username=Shankar1371&color=6A5ACD" />
-  </a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shankar1371&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar1371&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
 
-# Shankar Punati  
-### AI Engineering • Distributed Systems • ML Infrastructure • Full-Stack
+AI Systems Engineering | Distributed Infrastructure | Enterprise AI Architectures
 
-Master’s in Computer Science  
-Texas A&M University – Corpus Christi
-
-</div>
+Status: Active
+Location: United States
+Education: M.S. Computer Science — Texas A&M University–Corpus Christi
 
 ---
 
-## About Me
+SYSTEM PROFILE
 
-I am a graduate computer science student focused on building **production-ready AI systems** and **scalable distributed architectures**.  
-My work spans machine learning engineering, cloud-native systems, real-time data pipelines, and full-stack application development.
+I design and build production-grade AI systems, enterprise retrieval architectures, and autonomous cloud orchestration platforms.
 
-I enjoy solving complex engineering problems end-to-end — from model design and infrastructure to deployment, monitoring, and user-facing applications.
+My work focuses on reliability, observability, scalability, and real-world deployment — not research prototypes.
 
----
-
-## Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-5533FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-5533FF?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-5533FF?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-5533FF?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-5533FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-5533FF?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-5533FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### Frameworks & Platforms
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-2E8B57?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-2E8B57?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-2E8B57?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-2E8B57?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-2E8B57?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-### Systems & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-336699?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-336699?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-336699?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-336699?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336699?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-336699?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+Core Direction:
+- Enterprise AI Infrastructure
+- Retrieval-Augmented Generation (RAG)
+- Distributed ML Systems
+- Cloud-Native Automation
+- Intelligent Monitoring Systems
 
 ---
 
-## Focus Areas
+ACTIVE PROJECTS
 
-- Machine Learning Engineering & MLOps  
-- Distributed Systems & Fault-Tolerant Design  
-- Cloud-Native Architecture (Docker, Kubernetes, AWS)  
-- Android Development (Kotlin, MVVM, Room)  
-- Academic Research: Operating Systems, Parallel Computing, Reinforcement Learning  
+[AI SELF-HEALING CLOUD ORCHESTRATOR]
 
----
+Description:
+Predicts infrastructure anomalies using deep learning models and automatically executes remediation workflows in Kubernetes environments.
 
-## GitHub Activity
+Architecture:
+- PyTorch (GRU / Transformer models)
+- Prometheus monitoring pipeline
+- Kubernetes controllers
+- Automated runbook execution layer
+- Event-driven remediation engine
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shankar1371&show_icons=true&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar1371&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
----
-
-## Contact
-
-| | |
-|--|--|
-| Email | sankarpunati@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/sankar-punati-834a6a321/ |
-| Portfolio | *(Coming Soon)* |
+Objective:
+Reduce cloud downtime through predictive intelligence and automated correction.
 
 ---
 
-<p align="center">
-  Building reliable systems that scale — with clarity and intent.
-</p>
+[JAVA ENTERPRISE RAG SYSTEM]
+
+Description:
+Secure document intelligence platform enabling question-answering strictly grounded in uploaded enterprise PDFs.
+
+Architecture:
+- Spring Boot / Spring AI
+- Vector database (PGVector)
+- Semantic chunking & embedding pipelines
+- Hallucination control via grounding enforcement
+- Retrieval + prompt orchestration layer
+
+Objective:
+Deploy enterprise-safe AI knowledge systems.
+
+---
+
+[LIVEMENTOR AI — Intelligent Overlay Assistant]
+
+Description:
+Transparent AI overlay that analyzes live screen activity and provides contextual, goal-aware feedback in real time.
+
+Architecture:
+- Electron frontend
+- Python backend (OCR + inference pipeline)
+- GPT-based reasoning engine
+- Goal monitoring system
+
+Objective:
+Augment developer productivity through intelligent workflow observation.
+
+---
+
+TECHNICAL STACK
+
+Artificial Intelligence
+- PyTorch
+- Transformers (BERT, DistilBERT)
+- Retrieval-Augmented Generation
+- Vector Databases (PGVector, Milvus)
+- ML Pipeline Orchestration
+
+Backend Systems
+- Spring Boot
+- Node.js
+- REST APIs
+- Authentication & RBAC
+- Event-Driven Architectures
+
+Cloud & Infrastructure
+- Docker
+- Kubernetes
+- AWS (EC2, S3, Lambda)
+- CI/CD (GitHub Actions)
+- Observability (Prometheus)
+
+Databases
+- PostgreSQL
+- MongoDB
+- Redis
+
+---
+
+ENGINEERING PRINCIPLES
+
+- Build for production from day one
+- Design for failure
+- Prioritize observability
+- Enforce system boundaries
+- Ground AI systems in verifiable data
+
+---
+
+CURRENT FOCUS
+
+Advancing toward roles in:
+
+- AI Infrastructure Engineering
+- Machine Learning Platform Engineering
+- Backend / Distributed Systems Engineering
+- Enterprise AI Development
+
+Open to full-time opportunities in the United States.
+
+---
+
+CONTACT
+
+LinkedIn: [Add Link]
+Email: spunati@islander.tamucc.edu
