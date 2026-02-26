@@ -1,13 +1,7 @@
 # Sri Jaya Sankar Punati
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shankar1371&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shankar1371&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shankar1371/Shankar1371/main/output/github-contribution-grid-snake-dark.svg" />
@@ -141,7 +135,21 @@ Open to full-time opportunities in the United States.
 
 ---
 
+
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Shankar1371&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankar1371&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shankar1371&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 CONTACT
 
-LinkedIn: [Add Link]
-Email: spunati@islander.tamucc.edu
+LinkedIn: https://www.linkedin.com/in/sankar-punati-834a6a321/
+Email: sankarpunati@gmail.com
