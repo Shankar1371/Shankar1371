@@ -69,36 +69,10 @@
 
 <br/>
 
-## `// ACTIVE_SYSTEMS`
-
----
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  [01]  RELISERVE — RELIABILITY-FIRST SERVICE MARKETPLACE                │
-│        STATUS  :: ACTIVE (V2 BUILD)                                     │
-│        DOMAIN  :: Real-world system design · Trust infrastructure       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-> Reliability-aware service platform where **matching is driven by trust, not just proximity**.
-
-```
-CORE SYSTEMS  ─────────────────────────────────────────────────────────
-  • Intelligent worker ranking engine
-  • Reliability score (0–100 dynamic system)
-  • Emergency job routing (priority matching)
-  • Trust loop  →  job → completion → review → score → repeat
-  • Explainable recommendations layer
-────────────────────────────────────────────────────────────────────────
-STACK  ::  Node.js · PostgreSQL · Prisma · React · WebSockets
-```
-
----
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  [02]  AI SELF-HEALING CLOUD ORCHESTRATOR                               │
+│  [01]  AI SELF-HEALING CLOUD ORCHESTRATOR                               │
 │        STATUS  :: ACTIVE                                                │
 │        DOMAIN  :: AI Infrastructure · Failure prediction                │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -121,7 +95,7 @@ GOAL   ::  Zero-downtime infrastructure
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  [03]  ENTERPRISE RAG SYSTEM (JAVA)                                     │
+│  [02]  ENTERPRISE RAG SYSTEM (JAVA)                                     │
 │        STATUS  :: ACTIVE                                                │
 │        DOMAIN  :: Enterprise AI · Document intelligence                 │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -144,7 +118,7 @@ GOAL   ::  Hallucination-resistant enterprise AI
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  [04]  ML PIPELINE ORCHESTRATION PLATFORM                               │
+│  [03]  ML PIPELINE ORCHESTRATION PLATFORM                               │
 │        STATUS  :: ACTIVE                                                │
 │        DOMAIN  :: ML Platform · MLOps · Pipeline Execution              │
 └─────────────────────────────────────────────────────────────────────────┘
